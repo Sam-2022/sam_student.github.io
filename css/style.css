@@ -1,0 +1,67 @@
+* {
+	background-color: black;
+	color: lightgreen;
+	font-family: courier new;
+}
+header {
+	text-align: center;
+	margin: 20px;
+	width: 1100px;
+	height: 148px;
+}
+.sprite {
+	background: url('icon - Copy.png') no-repeat -10px -132px;
+	width: 150px;
+	height: 148px;
+	float: left;
+}
+article {
+	width: 700px;
+	float: left;
+}
+nav {
+	width: 250px;
+	float: left;
+	margin: 0px 15px;
+}
+aside {
+	width: 250px;
+	float: left;
+}
+body {
+	width: 1250px;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	color: red;
+}
+a:hover {
+	text-decoration: underline;
+}
+.delta {
+	background: url('icon - Copy.png') no-repeat -173px -179px;
+	width: 214px;
+	height: 61px;
+}
+.theta {
+	background: url('icon - Copy.png') no-repeat -595px -15px;
+	width: 268px;
+	height: 361px;
+}
+.eon {
+	background: url('icon - Copy.png') no-repeat -10px -318px;
+	width: 268px;
+	height: 365px;
+}
+.omega  {
+	background: url('icon - Copy.png') no-repeat -295px -320px;
+	width: 268px;
+	height: 361px;
+}
+.book {
+	background: url('icon - Copy.png') no-repeat -595px -408px;
+	width: 268px;
+	height: 361px;
+}
